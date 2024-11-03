@@ -1,6 +1,6 @@
 # Ignorar todos los archivos CSS y HTML
-*.css linguist-vendored
 *.html linguist-vendored
+*.css linguist-vendored
 
 # Marcar todos los archivos JavaScript como detectables
 *.js linguist-detectable
